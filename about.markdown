@@ -4,15 +4,4 @@ title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+olá! meu nome é marcos antenor e esse é o meu blog pessoal. por aqui você encontrará meus comentários e opiniões sobre os temas mais instigantes no cenário nacional - a cultura do cancelamento, o drama vivido por karol conká na edição do bbb 21 e sua redenção comovente em 'a vida depois do tombo'; quem é o novo affair de neymar?; e por último, mas não menos importante: o brasil irá virar uma venezuela? ah, já ia me esquecendo. além de um exímio analista social, também sou desenvolvedor de software e, ao longo da minha atividade aqui no blog, entrevistarei os principais especialistas do mercado para tentar responder a questão: qual a melhor linguagem de programação? html ou javascript? espero que os temas apresentados tenham despertado a sua curiosidade e ressalto que, nesse espaço, meu único compromisso é com a verdade. volte sempre!
