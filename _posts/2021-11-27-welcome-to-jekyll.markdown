@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "O que são Data Trusts?"
 date:   2021-11-27 23:29:50 -0300
 categories: jekyll update
 ---
