@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inteligência Artificial e Alquimia"
+title:  "The Alchemists of Our Time"
 date:   2024-01-29 23:29:50 -0300
 categories: jekyll update
 ---
