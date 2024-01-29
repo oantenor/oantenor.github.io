@@ -1,7 +1,7 @@
 ---
 layout: page
-title: sobre
+title: about
 permalink: /about/
 ---
 
-Olá! Meu nome é Marcos Antenor. Você pode me chamar de Marcos, de Antenor, ou de Marcos Antenor mesmo. Trabalho como desenvolvedor de software, mas minha profissão mesmo é dar opiniões polêmicas - pelo menos enquanto não posso vendê-las. Nesse blog você encontrará algumas delas. Espero que goste.
+Hello! My name is Marcos Antenor and I live in Brazil. You can call me Marcos, Antenor, or Marcos Antenor. I work as a software developer, but my real profession is giving controversial opinions - at least until I can sell them. In this blog, you will find some of them. I hope you enjoy.
