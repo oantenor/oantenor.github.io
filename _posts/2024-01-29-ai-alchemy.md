@@ -15,5 +15,4 @@ Regarding Dreyfus’s article, the author points out that, in general, the field
 
 Therefore, if the pattern pointed out by Dreyfus repeats, it is possible to assume that this moment of optimism by the economic and political forces guiding the development of AI models will be followed by a new phase marked by unexpected obstacles.
 
-My question in this case is: given the social nature of the structure that enables the development of these models, how can organized social movements present alternatives and obstacles to large tech groups and companies to reconfigure some of the relationships characterizing these algorithms of domination and control? What forms can these obstacles take? The roads paved by the Hollywood Writers Strikes that happened last year are the way to go?
-
+My question in this case is: given the social nature of the structure that enables the development of these models, how can organized social movements present alternatives and obstacles to large tech groups and companies to reconfigure some of the relationships characterizing these algorithms of domination and control? What forms can these obstacles take? 
