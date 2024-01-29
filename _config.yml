@@ -21,11 +21,11 @@
 title: o_antenor
 email: marcosantenor86@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  engenheiro de software
+  software developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: o_antenor
-github_username:  oantenor
+github_username:  oantenor 
 
 # Build settings
 theme: minima
